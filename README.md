@@ -4,6 +4,8 @@
 
 API service for user and role management.
 
+The project was created as homework for `{{ Comapny Name }}`. 
+
 ## REST API
 
 Below is a table of available REST API endpoints and their description.
